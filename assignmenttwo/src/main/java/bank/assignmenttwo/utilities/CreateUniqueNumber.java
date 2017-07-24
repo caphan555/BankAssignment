@@ -1,6 +1,5 @@
 package bank.assignmenttwo.utilities;
 
-import static org.hamcrest.CoreMatchers.instanceOf;
 
 public class CreateUniqueNumber {
 	int accountNo = 0;
